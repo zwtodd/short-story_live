@@ -7,6 +7,6 @@ I wanted to play around with some design elements, and decided to see if I could
 
 ## License Notes
 
-The design elements and code for this project are licensed under MIT. The story itself ("Live") is written by and copyrighted by /u/CroatianSpy. It should not be further released without his/her permission. /u/CroatianSpy can be reached via reddit. I am not profitting off of this software, nor is it hosted anywhere else but on github for my own educational means.
+The design elements and code for this project are licensed under MIT. The story itself ("Live") is written by and copyrighted by /u/CroatianSpy. It should not be further released without his/her permission. /u/CroatianSpy can be reached via reddit. I am not profitting off of this software, it is for my own educational means.
 
 All files in this repo can be used freely under the MIT license, with the exception of 'original_script.txt' and 'js/story.js', as those two files contain the story written by /u/CroationSpy.
